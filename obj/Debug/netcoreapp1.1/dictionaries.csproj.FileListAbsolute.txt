@@ -1,0 +1,8 @@
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.deps.json
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.runtimeconfig.json
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.runtimeconfig.dev.json
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/obj/Debug/netcoreapp1.1/dictionaries.AssemblyInfo.cs
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.dll
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/bin/Debug/netcoreapp1.1/dictionaries.pdb
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/obj/Debug/netcoreapp1.1/dictionaries.dll
+/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/obj/Debug/netcoreapp1.1/dictionaries.pdb
