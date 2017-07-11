@@ -7084,16 +7084,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/dictionaries.csproj",
+      "projectUniqueName": "/Users/mitchellblom/workspace/c19/exercises/csharp/dictionaries/dictionaries.csproj",
       "projectName": "dictionaries",
-      "projectPath": "/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/dictionaries.csproj",
-      "outputPath": "/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/obj/",
+      "projectPath": "/Users/mitchellblom/workspace/c19/exercises/csharp/dictionaries/dictionaries.csproj",
+      "outputPath": "/Users/mitchellblom/workspace/c19/exercises/csharp/dictionaries/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/dictionaries.dll": "/Users/mitchellblom/workspace/c19/classwork/csharp/exercises/dictionaries/bin/placeholder/netcoreapp1.1/dictionaries.dll"
+        "lib/netcoreapp1.1/dictionaries.dll": "/Users/mitchellblom/workspace/c19/exercises/csharp/dictionaries/bin/placeholder/netcoreapp1.1/dictionaries.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
